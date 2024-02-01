@@ -36,4 +36,4 @@ Your feedback is invaluable to me. As you delve into the book and utilize the re
 
 If you wish to reach out for more insights or collaboration, feel free to visit my website at [https://howardctran.com/](https://howardctran.com/) or connect with me on LinkedIn at [https://www.linkedin.com/in/mybuddyhoward/](https://www.linkedin.com/in/mybuddyhoward/).
 
-Interested in getting a copy of the book? [Click here to purchase it on Amazon](#). (Link to be updated)
+Interested in getting a copy of the book? [Click here to purchase it on Amazon](https://www.amazon.com/dp/B0CTRV6S37). (Link to be updated)
