@@ -16,11 +16,11 @@ I'm Howard Tran, deeply passionate about unlocking the power of Application Load
 
 This repository is structured into subfolders representing the five categories covered in the book:
 
-- Business Insights
-- Security & Compliance
-- Cost Optimization
-- Performance Optimization
-- Error Analysis
+- [Business Insights](https://github.com/mybuddyhoward/analyzing-aws-load-balancer-logs/tree/main/SECTION_1_BUSINESS_INSIGHTS)
+- [Cost Optimization](https://github.com/mybuddyhoward/analyzing-aws-load-balancer-logs/tree/main/SECTION_2_COST_OPTIMIZATION)
+- [Error Analysis](https://github.com/mybuddyhoward/analyzing-aws-load-balancer-logs/tree/main/SECTION_3_ERROR_ANALYSIS)
+- [Performance Optimization](https://github.com/mybuddyhoward/analyzing-aws-load-balancer-logs/tree/main/SECTION_4_PERFORMANCE_OPTIMIZATION)
+- [Security & Compliance](https://github.com/mybuddyhoward/analyzing-aws-load-balancer-logs/tree/main/SECTION_5_SECURITY_COMPLIANCE)
 
 Each folder contains a README with the SQL queries relevant to that category, reflecting the book's structure and offering a direct way to navigate through the various insights and optimizations discussed.
 
@@ -28,4 +28,12 @@ Each folder contains a README with the SQL queries relevant to that category, re
 
 - **Web Console:** For exploring the AWS console, I recommend browsers like Chrome, Safari, or Microsoft Edge.
 - **Command Line:** For command-line enthusiasts, Amazon's CLI Version 2 is suggested.
-- **Repository Access:** You can access the SQL code mentioned in the book directly through this repository. 
+- **Repository Access:** You can access the SQL code mentioned in the book directly through this repository. Visit [my GitHub Repository](https://github.com/mybuddyhoward/analyzing-aws-load-balancer-logs) for the latest code samples.
+
+## Connect With Me
+
+Your feedback is invaluable to me. As you delve into the book and utilize the repository, please share your thoughts, reviews, and insights. Your engagement not only shapes future editions of the book but also assists fellow readers in making informed decisions.
+
+If you wish to reach out for more insights or collaboration, feel free to visit my website at [https://howardctran.com/](https://howardctran.com/) or connect with me on LinkedIn at [https://www.linkedin.com/in/mybuddyhoward/](https://www.linkedin.com/in/mybuddyhoward/).
+
+Interested in getting a copy of the book? [Click here to purchase it on Amazon](#). (Link to be updated)
